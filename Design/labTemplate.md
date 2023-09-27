@@ -12,7 +12,7 @@
 
  **Order:** <span class="md">OrderNumber,</b> CustomerNumber, firstName, Lastname, Address, City, province, postalCode, phone, date,<b class="rg"> itemnumber, Description, quantity, CurrentPrice, SellingPrice, Amount, subtotal ,GST , Total </span>
 
- ### ERD
+ ### 
 
  
 
@@ -108,7 +108,7 @@
     font-size: 1.1em;
 }
 </style>
-}
+
 ----
 
 ## Legend 
